@@ -37,5 +37,8 @@ A beautiful **JavaFX-based desktop application** to manage a fruit & vegetable s
 - Java 8 or higher
 - JavaFX SDK (Ensure it's added to your classpath/module-path)
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
